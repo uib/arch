@@ -1,0 +1,3 @@
+[submodule "themes/uib"]
+	path = themes/uib
+	url = https://github.com/uib/hugo-uib.git

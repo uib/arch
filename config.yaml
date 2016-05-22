@@ -2,4 +2,5 @@ baseurl: http://uib.github.io/arch/
 languageCode: nb-NO
 title: Arkitektur ved UiB
 metaDataFormat: yaml
+theme: uib
 ...
