@@ -10,6 +10,8 @@ Arkitekturrådet ved ITA er et organ som:
 
 * Rådspørres i innkjøps-/utviklingsprosjekter som ønsker å fravike fra prinsippene
 
+<!--more-->
+
 Føringer som vektlegges i rådene som gis:
 
 * [Felles arkitekturprisnipper for universitets- og høyskolesektoren](https://www.uninett.no/arkitektur)
