@@ -1,6 +1,9 @@
 ---
 date: 2016-06-01
 title: Aktiviteter i arkitekturrådet ved ITA
+menu:
+  main:
+    name: Aktiviteter
 ---
 
 ## 2016-04-22 Workshop

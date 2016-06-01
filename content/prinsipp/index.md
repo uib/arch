@@ -2,6 +2,10 @@
 title: Arkitekturprinsipper for UiB
 date: 2016-06-01
 type: index
+menu:
+  main:
+    name: Prinsipper
+    weight: -10
 ---
 
 Retningslinjer for definering av prinsipper er å finne i [TOGAF kap 23 Architecture Principles](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap23.html).  Prinsippene har formen:
