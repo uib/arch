@@ -6,7 +6,7 @@ title: Mandat for arkitekturrådet ved ITA
 
 Arkitekturrådet ved ITA er et organ som:
 
-* Utarbeider anbefalinger og prinsipper for utvikling, integrasjon, teknologivalg og driftsmetodikk
+* Utarbeider anbefalinger og [prinsipper]({{< ref "prinsipp/index.md" >}}) for utvikling, integrasjon, teknologivalg og driftsmetodikk
 
 * Rådspørres i innkjøps-/utviklingsprosjekter som ønsker å fravike fra prinsippene
 
