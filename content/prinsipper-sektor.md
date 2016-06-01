@@ -48,6 +48,6 @@ IKT-løsninger skal kunne skaleres ved endringer i bruksmønster.
 
 ## UiOs arkitekturprinsipper
 
-UiOs prinsipper er listet her til inspirasjon.  Prinsippene gjelder ikke for UiB med mindre de er innarbeidet i [vår egen liste](uib.md).
+UiOs prinsipper er listet her til inspirasjon.  Prinsippene gjelder ikke for UiB med mindre de er innarbeidet i [vår egen liste]({{< ref "prinsipp/index.md" >}}).
 
 * [Prinsipper for integrasjonsarkitektur](http://www.usit.uio.no/prosjekter/uio-integrasjonsarkitektur/forprosjekt/leveranser/ia-prinsipper/index.html).
