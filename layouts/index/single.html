@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+<div class="content">
+<article>
+<h1>{{ .Title }}</h1>
+{{.Content}}
+</article>
+
+<div class="index">
+<dl>
+{{ range where .Site.Pages "Type" .Section }}
+<dt><a href="{{ .Permalink }}">{{ .Title }}</a></dt>
+  <dd>{{ .Summary }}</dd>
+{{ end }}
+</dl>
+</div>
+
+</div>
+
+{{ partial "footer.html" . }}
