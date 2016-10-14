@@ -3,4 +3,5 @@ languageCode: nb-NO
 title: IT-arkitektur ved UiB
 metaDataFormat: yaml
 theme: uib
+publishdir: docs
 ...
