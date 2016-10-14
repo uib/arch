@@ -35,7 +35,6 @@ og [National arkitektur](https://www.difi.no/fagomrader-og-tjenester/digitaliser
 
 Rådet består for tiden av
 [Cato](http://www.uib.no/user/uib/edpck),
-[Chandini](http://www.uib.no/user/uib/cme021),
 [Ernst](http://www.uib.no/personer/Ernst.Pedersen),
 [Gisle](http://www.uib.no/user/uib/gaa041),
 [Kristian](http://www.uib.no/user/uib/st08187),
