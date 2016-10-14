@@ -7,7 +7,7 @@ menu:
 ---
 
 
-Arkitekturrådet ved ITA er et organ som:
+Arkitekturrådet ved [ITA](http://www.uib.no/it) er et organ som:
 
 * Utarbeider anbefalinger og [prinsipper]({{< ref "prinsipp/index.md" >}}) for utvikling, integrasjon, teknologivalg og driftsmetodikk
 
