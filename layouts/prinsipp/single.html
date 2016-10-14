@@ -1,7 +1,10 @@
 {{ partial "header.html" . }}
 <div class="content">
 <article class="principle">
-<h1><span class="breadcrumb"><a href="../">Prinsipp</a></span> {{ .Title }}</h1>
+<h1><span class="breadcrumb"><a href="../">Prinsipp</a></span> → {{ .Title }}</h1>
+
+<pre>Status: {{ .Params.uibstatus | default "draft" }}</pre>
+
 {{.Content}}
 </article>
 </div>

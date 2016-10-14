@@ -1,7 +1,7 @@
 ---
 title: APIer bruker engelsk
 date: 2016-01-01
-status: proposed
+uibstatus: proposed
 ---
 
 Skjema for data og APIer defineres på engesk.

@@ -1,7 +1,7 @@
 ---
 title: Løse sammnenkoblinger
 date: 2016-01-01
-status: proposed
+uibstatus: proposed
 ---
 
 ### Løse sammenkoblinger

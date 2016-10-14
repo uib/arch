@@ -1,7 +1,7 @@
 ---
 title: Krypterte forbindelser
 date: 2016-01-01
-status: proposed
+uibstatus: proposed
 ---
 
 Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene.

@@ -8,7 +8,7 @@
 <div class="index">
 <dl>
 {{ range where .Site.Pages "Type" .Section }}
-<dt><a href="{{ .Permalink }}">{{ .Title }}</a></dt>
+<dt><a href="{{ .Permalink }}">{{ .Title }}</a> [{{ .Params.uibstatus | default "draft" }}]</dt>
   <dd>{{ .Summary }}</dd>
 {{ end }}
 </dl>

@@ -1,7 +1,7 @@
 ---
 title: API til alt
 date: 2016-01-01
-status: proposed
+uibstatus: proposed
 ---
 
 All forretningslogikk og all «ikke GUI-relatert» funksjonalitet skal være

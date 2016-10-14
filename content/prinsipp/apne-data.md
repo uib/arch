@@ -1,7 +1,7 @@
 ---
 title: Åpne data
 date: 2016-01-01
-status: draft
+uibstatus: draft
 ---
 
 Tilgjengeliggjøre offentlige data som _Åpne data_ der det er av samfunnsmessig

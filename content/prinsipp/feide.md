@@ -1,7 +1,7 @@
 ---
 title: FEIDE til innlogging på webapplikasjoner
 date: 2016-01-01
-status: proposed
+uibstatus: proposed
 ---
 
 Webapplikasjoner og mobilapplikasjoner med innlogging bruker [FEIDE](http://feide.no).

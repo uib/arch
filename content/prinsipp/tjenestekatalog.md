@@ -1,7 +1,7 @@
 ---
 title: Tjenestekatalogen
 date: 2016-01-01
-status: proposed
+uibstatus: proposed
 ---
 
 IT-tjenester som gjøres tilgjengelig for ansatte eller studenter
