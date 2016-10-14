@@ -1,5 +1,5 @@
 ---
-date: 2016-05-22T15:45:31+02:00
+date: 2016-10-14
 title: Oversikt
 ---
 
@@ -38,20 +38,31 @@ inngår og hva relasjonene mellom disse er.
 
 Systemer har arkitektur selv om det ikke har vært fokus på det ved utviklingen
 av systemet. En definisjon som belyser detter er å si at arkitekturen er den
-fellsforståelsen av systemets struktur som ekspertene som jobber med systemet
+fellesforståelsen av systemets struktur som ekspertene som jobber med systemet
 har.  Denne forståelsen er ikke nødvendigvis dokumentert noe sted.
 
 [TOGAF](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework) er
 en standard for hvordan virksomhetsarkitekturer kan dokumenteres og en prosess
-som leder fram til denne dokumentasjonen.  Vi benytter oss av definisjonene til
-TOGAF under.
+som leder fram til denne dokumentasjonen.  Vi benytter oss av
+[definisjonene](https://www2.opengroup.org/ogsys/catalog/C151) til TOGAF under.
 
-Virksomhetsarkitektur ...
+Virksomhetsarkitektur (eng Enterprise Architecture) er en beskrivelse av
+organisasjonens forretningsdrift og den underliggende IT-støtten for driften.
+Denne delees inn i følgende lag:
 
-Foretningsarkitektur ...
+* Foretningsarkitektur (eng Business Architecture) er en beskrivelse av strukturen
+i og interaksjonen mellom forretningsstrategien, organisasjonen, funksjoner,
+forretningssprosesser og informasjonbehov.
 
-Dataarkitektur ...
+* Dataarkitektur (eng Data Architecture) er en beskrivelse av strukturen til en
+organisasjons logiske og fysiske dataressurser og ressurser til dataadministrasjon.
 
-Applikasjonsarkitektur
+* Applikasjonsarkitektur (eng Application Architecture) er en beskrivelse av struktur
+og interaksjon mellom applikasjoner, gruppert i kapabiliteter som tilbyr viktige
+forretningsfunksjoner og håndterer dataressursene.
 
-Teknologiarkitektur
+* Teknologiarkitektur (eng Technology Architecture) er en beskrivelse av strukturen
+i og interaksjon mellom plattformtjenester, og mellom logiske og fysiske teknologikomponenter.
+
+Arkitekturrådet ved ITA beskjeftiger seg bare med de 3 nederste nivåene i
+virksomhetsarkitekturen.
