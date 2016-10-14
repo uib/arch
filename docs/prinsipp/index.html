@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="generator" content="Hugo 0.17" />
+    <title>Arkitekturprinsipper for UiB</title>
+    <link rel="stylesheet" type="text/css" href="http://uib.github.io/arch/css/uib.css">
+</head>
+
+<body>
+
+<header>
+<a href="http://www.uib.no/"><img class="uib-logo" src="http://uib.github.io/arch/img/uib-logo.svg" alt="UiB"></a>
+<h1><a href="http://uib.github.io/arch/">IT-arkitektur ved UiB</a></h1>
+
+<nav>
+<ul>
+
+  <li><a href="/arch/prinsipp/">Prinsipper</a>
+
+  <li><a href="/arch/aktivitet/">Aktiviteter</a>
+
+  <li><a href="/arch/mandat/">Mandat</a>
+
+</ul>
+</nav>
+
+</header>
+
+<div class="content">
+<article>
+<h1>Arkitekturprinsipper for UiB</h1>
+<p>Retningslinjer for definering av prinsipper er å finne i <a href="http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap23.html">TOGAF kap 23 Architecture Principles</a>.  Prinsippene har formen:</p>
+
+<ul>
+<li>kort navn</li>
+<li>&ldquo;statement&rdquo;</li>
+<li>begrunnelse</li>
+<li>konsekvenser</li>
+</ul>
+
+<p>UiB har vedtatt å følge <a href="http://uib.github.io/arch/prinsipper-sektor/">sektorens og DIFIs prinsipper</a>.  Disse
+prinsippene gjelder derfor i tillegg til de prinsippene som er merket som
+<em>vedtatt</em> under.</p>
+
+</article>
+
+<div class="index">
+<dl>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/api/">API til alt</a> [proposed]</dt>
+  <dd>All forretningslogikk og all «ikke GUI-relatert» funksjonalitet skal være tilgjengelig via veldefinerte APIer. (Lyst til å skrive åpne, men tenker at det kan være i overkant å kreve)</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/api-engelsk/">APIer bruker engelsk</a> [proposed]</dt>
+  <dd>Skjema for data og APIer defineres på engesk. Egendefinerte skjema og APIer følger vår navnestandard.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/apidoc/">Dokumenterte samenkoblinger</a> [accepted]</dt>
+  <dd>Sammenkoblinger og dataflyt mellom systemene dokumenteres som APIer i apidoc.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/etter-ansaffelse/">Etter anskaffelse</a> [proposed]</dt>
+  <dd>Det skal ta hensyn til både drift og oppgraderinger etter anskaffelse (eller utvikling).</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/feide/">FEIDE til innlogging på webapplikasjoner</a> [proposed]</dt>
+  <dd>Webapplikasjoner og mobilapplikasjoner med innlogging bruker FEIDE. Innlogging via Dataporten kan være en enklere måte å få tilgang til FEIDE.
+Konsekvens: Applikasjoner må ta hensyn til at brukere uten UiB-konto kan logge seg på. Forbedrede skalerbarhet.
+Innlogging via LDAP skal avvikles</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/uhad/">Innlogging via UHAD</a> [proposed]</dt>
+  <dd>Windowsappliasjoner bruker UHAD til autorisasjon.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/krypterte-forbindelser/">Krypterte forbindelser</a> [proposed]</dt>
+  <dd>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene. Obligatorisk når forbindelsen inneholder sesjonsinfo.
+Konsekvens https everywhere.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/lose-sammenkoblinger/">Løse sammnenkoblinger</a> [proposed]</dt>
+  <dd>Løse sammenkoblinger Integrasjonsgrensesnitt skal utformes slik at tjenester og bakenforliggende systemer kan flyttes og byttes ut uten at konsumenter av tjenesten må gjøre endringer i sin ende, og omvendt. Systemene skal gjøre så få antakelser om tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/sikkerhet/">Sikkerhet</a> [proposed]</dt>
+  <dd>Sikkerhet er integrert i alle trinn (prosjektering, krav spek, anskaffelse og test, idriftsetting)</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/standardisering/">Standardisering</a> [proposed]</dt>
+  <dd>IT løsninger er basert på velkjent standarder og programvarer/applikasjoner som er integrasjonsvennlig.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/teknisk-gjeld/">Teknisk gjeld</a> [proposed]</dt>
+  <dd>Systemene som innføres skal ikke akkumulere teknisk gjeld. :-)</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/tjenestekatalog/">Tjenestekatalogen</a> [proposed]</dt>
+  <dd>IT-tjenester som gjøres tilgjengelig for ansatte eller studenter registreres i Tjenestekatalogen.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/apen-kildekode/">Åpen kildekode</a> [proposed]</dt>
+  <dd>Open source produkter foretrekkes.</dd>
+
+<dt><a href="http://uib.github.io/arch/prinsipp/apne-data/">Åpne data</a> [draft]</dt>
+  <dd>Tilgjengeliggjøre offentlige data som Åpne data der det er av samfunnsmessig verdi, som kan viderebrukes og som ikke er taushetsbelagt. UiB skal fortrinsvis selv bruke disse Åpne dataene.</dd>
+
+</dl>
+</div>
+
+</div>
+
+<footer>
+    &copy; 2016 Universitetet i Bergen
+</footer>
+</body>
+</html>
+

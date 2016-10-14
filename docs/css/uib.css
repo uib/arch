@@ -1,0 +1,74 @@
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic);
+
+html {
+    font-family: "Noto Sans", Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6, th {
+    font-weight: normal;
+}
+
+h1 {
+    border-bottom: 2px solid #EBB;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 0.3em;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+
+header, footer {
+    background: #cf3c3a;
+    color: white;
+}
+
+header {
+    min-height: 100px;
+    padding: 0 2rem;
+}
+
+header .uib-logo {
+    float: left;
+    height: 80px;
+    width: 80px;
+    margin-top: 10px;
+    margin-right: 1em;
+}
+header h1 {
+    border-bottom: none;
+    padding-top: 0.5em;
+    margin: 0;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header nav li {
+    display: inline-block;
+    margin-right: 2ex;
+    text-transform: uppercase;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    padding: 0.2rem 2rem;
+    font-size: smaller;
+    margin-top: 2rem;
+}
+
+.content {
+    padding: 0.5rem 2rem;
+    max-width: 40em;
+}
