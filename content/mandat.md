@@ -1,5 +1,5 @@
 ---
-date: 2016-05-22T16:45:29+02:00
+date: 2016-10-14
 title: Mandat for arkitekturrådet ved ITA
 menu:
   main:
