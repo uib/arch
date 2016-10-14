@@ -1,9 +1,11 @@
 ---
 title: UH-sektorens arkitekturprinsipper
-date: 2016-01-06
+date: 2016-10-14
 ---
 
-Dette er oppsummeringen av <https://www.uninett.no/arkitektur>.  UiB har vedtatt å følge disse prinsippene.
+Dette er oppsummeringen av [Felles IKT-arkitekturprinsipper for universitets- og høgskolesektoren](https://www.uninett.no/arkitektur) som baserer seg på [Arkitekturprinsipper for offentlig sektor](https://www.difi.no/artikkel/2016/01/overordnede-it-arkitekturprinsipper),
+og [National arkitektur](https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur).
+UiB har vedtatt å følge disse prinsippene.
 
 ### Tjenesteorientering
 
@@ -46,7 +48,7 @@ eierskap eller infrastruktur.
 
 IKT-løsninger skal kunne skaleres ved endringer i bruksmønster.
 
-## UiOs arkitekturprinsipper
+# UiOs arkitekturprinsipper
 
 UiOs prinsipper er listet her til inspirasjon.  Prinsippene gjelder ikke for UiB med mindre de er innarbeidet i [vår egen liste]({{< ref "prinsipp/index.md" >}}).
 
