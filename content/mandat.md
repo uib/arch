@@ -21,11 +21,11 @@ Føringer som vektlegges i rådene som gis:
 som baserer seg på [Arkitekturprinsipper for offentlig sektor](https://www.difi.no/artikkel/2016/01/overordnede-it-arkitekturprinsipper),
 og [National arkitektur](https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur).
 
-* BOTT-samarbeid om arkitektur
+* [BOTT-samarbeid om arkitektur](https://www.bott-samarbeidet.no/it-bott/fellestiltak/arkitekturutvalg/)
 
-* ITAs strategi og UiBs IT-strategi
+* [ITAs strategi](https://it.uib.no/ITAs_strategi_2015-2020,_Styringspyramiden) og [UiBs digitaliseringsstrategi](http://www.uib.no/strategi/digital)
 
-* UiBs (implisitte) forretningsarkitektur
+* UiBs (implisitte) forretningsarkitektur og [strategi](http://www.uib.no/strategi)
 
 * ITAs kompetanseprofil
 
