@@ -6,6 +6,8 @@ This is a [hugo](https://gohugo.io/) site.  Hugo is a static site generator.
 Update content by updating the markdown files in the content/ directory.
 The other directories can mostly be ignored.
 
+Install hugo (on a Mac):
+
     brew install hugo
 
 View the content locally while editing:
