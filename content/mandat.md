@@ -23,7 +23,7 @@ og [National arkitektur](https://www.difi.no/fagomrader-og-tjenester/digitaliser
 
 * [BOTT-samarbeid om arkitektur](https://www.bott-samarbeidet.no/it-bott/fellestiltak/arkitekturutvalg/)
 
-* [ITAs strategi](https://it.uib.no/ITAs_strategi_2015-2020,_Styringspyramiden) og [UiBs digitaliseringsstrategi](http://www.uib.no/strategi/digital)
+* [ITAs strategi](https://it.uib.no/ITAs_strategi_2015-2020,_Styringspyramiden) og [UiBs digitaliseringsstrategi](http://ekstern.filer.uib.no/ledelse/digitaliseringsstrategi_2016-22.pdf)
 
 * UiBs (implisitte) forretningsarkitektur og [strategi](http://www.uib.no/strategi)
 
