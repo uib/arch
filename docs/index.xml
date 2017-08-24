@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT-arkitektur ved UiB</title>
-    <link>http://uib.github.io/arch/index.xml</link>
+    <link>http://uib.github.io/arch/</link>
     <description>Recent content on IT-arkitektur ved UiB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
     <lastBuildDate>Fri, 14 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://uib.github.io/arch/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://uib.github.io/arch/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mandat for arkitekturrådet ved ITA</title>
@@ -23,38 +25,7 @@
 &lt;li&gt;&lt;p&gt;Rådspørres i innkjøps-/utviklingsprosjekter som ønsker å fravike fra prinsippene&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Føringer som vektlegges i rådene som gis:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.uninett.no/arkitektur&#34;&gt;Felles arkitekturprisnipper for universitets- og høyskolesektoren&lt;/a&gt;
-som baserer seg på &lt;a href=&#34;https://www.difi.no/artikkel/2016/01/overordnede-it-arkitekturprinsipper&#34;&gt;Arkitekturprinsipper for offentlig sektor&lt;/a&gt;,
-og &lt;a href=&#34;https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur&#34;&gt;National arkitektur&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.bott-samarbeidet.no/it-bott/fellestiltak/arkitekturutvalg/&#34;&gt;BOTT-samarbeid om arkitektur&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://it.uib.no/ITAs_strategi_2015-2020,_Styringspyramiden&#34;&gt;ITAs strategi&lt;/a&gt; og &lt;a href=&#34;http://ekstern.filer.uib.no/ledelse/digitaliseringsstrategi_2016-22.pdf&#34;&gt;UiBs digitaliseringsstrategi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;UiBs (implisitte) forretningsarkitektur og &lt;a href=&#34;http://www.uib.no/strategi&#34;&gt;strategi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ITAs kompetanseprofil&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Teknologiutviklingen&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;deltakere&#34;&gt;Deltakere&lt;/h2&gt;
-
-&lt;p&gt;Rådet består for tiden av
-&lt;a href=&#34;http://www.uib.no/user/uib/edpck&#34;&gt;Cato&lt;/a&gt;,
-&lt;a href=&#34;http://www.uib.no/personer/Ernst.Pedersen&#34;&gt;Ernst&lt;/a&gt;,
-&lt;a href=&#34;http://www.uib.no/user/uib/gaa041&#34;&gt;Gisle&lt;/a&gt;,
-&lt;a href=&#34;http://www.uib.no/user/uib/st08187&#34;&gt;Kristian&lt;/a&gt;,
-&lt;a href=&#34;http://www.uib.no/user/uib/edpto&#34;&gt;Tor&lt;/a&gt;,
-&lt;a href=&#34;http://www.uib.no/personer/Tore.Burheim&#34;&gt;Tore&lt;/a&gt;.
-Gisle leder rådet.&lt;/p&gt;
-
-&lt;p&gt;Rådet rapporterer til ledergruppen ved ITA.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -63,75 +34,9 @@ Gisle leder rådet.&lt;/p&gt;
       <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/</guid>
-      <description>
-
-&lt;h2 id=&#34;arkitekturrådet-ved-ita&#34;&gt;Arkitekturrådet ved ITA&lt;/h2&gt;
-
-&lt;p&gt;Rådet ble konstituert i møte 2016-02-23 med ledergruppen ved
-ITA samt rådets medlemer tilstede.  Rådet har fått &lt;a href=&#34;http://uib.github.io/arch/mandat/&#34;&gt;mandat&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Rådet skal gi praktiske råd som kan brukes til å ta teknologiske valg i prosjekter,
-ved innkjøp og i det daglige arbeidet.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Hvilken teknologi skal vi bruke til å løse dette problemet?
-Men også egenskapene til tekonologi som er egnet til å løse problemer av denne typen.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hvordan skal systemene samhandle.
-Hvilke krav stilles til grensesnittene.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hvordan forvaltes våre data slik at de blir gjenbrukbare og portable.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Bidra til standardisering.  Bidra til å ta fornuftige og fremtidsrettede valg.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Rådene revideres og vil endre seg over tid.&lt;/p&gt;
-
-&lt;h2 id=&#34;hva-er-arkitektur&#34;&gt;Hva er arkitektur?&lt;/h2&gt;
-
-&lt;p&gt;Arkitektur er i utgangspunktet kunsten å planlegge, utforme og oppføre
-byggverk, og ordet kan betegne både prosessen fram til ferdig byggverk, det
-ferdige byggverket og kunnskapen om bygging.&lt;/p&gt;
-
-&lt;p&gt;Innen IT brukes ordet arkitektur i utallige sammenstillinger og betydninger.
-Felles for dem er at de prøver å beskrive de viktigste eller overordnede
-aspektene ved noe.  I vår sammenheng bruker vi begrepet om hvordan systemer (i
-videste betydning) henger sammen på et overordnet nivå — hvilke komponenter
-inngår og hva relasjonene mellom disse er.&lt;/p&gt;
-
-&lt;p&gt;Systemer har arkitektur selv om det ikke har vært fokus på det ved utviklingen
-av systemet. En definisjon som belyser detter er å si at arkitekturen er den
-fellesforståelsen av systemets struktur som ekspertene som jobber med systemet
-har.  Denne forståelsen er ikke nødvendigvis dokumentert noe sted.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework&#34;&gt;TOGAF&lt;/a&gt; er
-en standard for hvordan virksomhetsarkitekturer kan dokumenteres og en prosess
-som leder fram til denne dokumentasjonen.  Vi benytter oss av
-&lt;a href=&#34;https://www2.opengroup.org/ogsys/catalog/C151&#34;&gt;definisjonene&lt;/a&gt; til TOGAF under.&lt;/p&gt;
-
-&lt;p&gt;Virksomhetsarkitektur (eng Enterprise Architecture) er en beskrivelse av
-organisasjonens forretningsdrift og den underliggende IT-støtten for driften.
-Denne delees inn i følgende lag:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Foretningsarkitektur (eng Business Architecture) er en beskrivelse av strukturen
-i og interaksjonen mellom forretningsstrategien, organisasjonen, funksjoner,
-forretningssprosesser og informasjonbehov.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dataarkitektur (eng Data Architecture) er en beskrivelse av strukturen til en
-organisasjons logiske og fysiske dataressurser og ressurser til dataadministrasjon.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Applikasjonsarkitektur (eng Application Architecture) er en beskrivelse av struktur
-og interaksjon mellom applikasjoner, gruppert i kapabiliteter som tilbyr viktige
-forretningsfunksjoner og håndterer dataressursene.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Teknologiarkitektur (eng Technology Architecture) er en beskrivelse av strukturen
-i og interaksjon mellom plattformtjenester, og mellom logiske og fysiske teknologikomponenter.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Arkitekturrådet ved ITA beskjeftiger seg bare med de 3 nederste nivåene i
-virksomhetsarkitekturen.&lt;/p&gt;
-</description>
+      <description>Arkitekturrådet ved ITA Rådet ble konstituert i møte 2016-02-23 med ledergruppen ved ITA samt rådets medlemer tilstede. Rådet har fått mandat.
+Rådet skal gi praktiske råd som kan brukes til å ta teknologiske valg i prosjekter, ved innkjøp og i det daglige arbeidet.
+ Hvilken teknologi skal vi bruke til å løse dette problemet? Men også egenskapene til tekonologi som er egnet til å løse problemer av denne typen.</description>
     </item>
     
     <item>
@@ -140,61 +45,9 @@ virksomhetsarkitekturen.&lt;/p&gt;
       <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipper-sektor/</guid>
-      <description>
-
-&lt;p&gt;Dette er oppsummeringen av &lt;a href=&#34;https://www.uninett.no/arkitektur&#34;&gt;Felles IKT-arkitekturprinsipper for universitets- og høgskolesektoren&lt;/a&gt; som baserer seg på &lt;a href=&#34;https://www.difi.no/artikkel/2016/01/overordnede-it-arkitekturprinsipper&#34;&gt;Arkitekturprinsipper for offentlig sektor&lt;/a&gt;,
-og &lt;a href=&#34;https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur&#34;&gt;National arkitektur&lt;/a&gt;.
-UiB har vedtatt å følge disse prinsippene.&lt;/p&gt;
-
-&lt;h3 id=&#34;tjenesteorientering&#34;&gt;Tjenesteorientering&lt;/h3&gt;
-
-&lt;p&gt;Funksjonalitet og ytelsesnivå er hovedhensynet ved utvikling av IKT-løsninger.
-IKT-tjenester som er nødvendige for å understøtte hele eller deler av en eller
-flere arbeidsprosesser skal identifiseres og realiseres slik at de kan
-gjenbrukes.&lt;/p&gt;
-
-&lt;h3 id=&#34;interoperabilitet&#34;&gt;Interoperabilitet&lt;/h3&gt;
-
-&lt;p&gt;Virksomheter i UH-sektoren og deres IT-løsninger samhandler på et
-hensiktsmessig nivå for å støtte høyere utdanning, forskning og formidling.
-UH-sektoren må også samhandle i noen grad med relevante virksomheter utenfor
-sektoren.&lt;/p&gt;
-
-&lt;h3 id=&#34;tilgjengelighet&#34;&gt;Tilgjengelighet&lt;/h3&gt;
-
-&lt;p&gt;Tjenester er tilgjengelige når brukerne trenger dem, lette å finne fram til,
-brukervennlige og universelt utformet.&lt;/p&gt;
-
-&lt;h3 id=&#34;sikkerhet&#34;&gt;Sikkerhet&lt;/h3&gt;
-
-&lt;p&gt;IKT-løsningen i seg selv og informasjonen som behandles i denne, skal med utgangspunkt i
-formelle og risikobaserte krav beskyttes mot brudd på konfidensialitet, integritet og tilgjengelighet.
-Sikkerhetsprinsippet kan begrense andre prinsipper, dersom dette er avgjørende for tilliten til UH-sektoren.&lt;/p&gt;
-
-&lt;h3 id=&#34;åpenhet&#34;&gt;Åpenhet&lt;/h3&gt;
-
-&lt;p&gt;IKT-løsningers virkemåte og datagrunnlag skal kunne gjøres rede for.
-Transparens støttes gjennom bruk av åpne data og åpne grensesnitt til
-tjenester.&lt;/p&gt;
-
-&lt;h3 id=&#34;fleksibilitet&#34;&gt;Fleksibilitet&lt;/h3&gt;
-
-&lt;p&gt;IKT-løsninger er utformet slik at de ikke fremstår som begrensende for
-endringer i arbeidsprosesser, organisasjonsstrukturer, løsningsfunksjonalitet,
-eierskap eller infrastruktur.&lt;/p&gt;
-
-&lt;h3 id=&#34;skalerbarhet&#34;&gt;Skalerbarhet&lt;/h3&gt;
-
-&lt;p&gt;IKT-løsninger skal kunne skaleres ved endringer i bruksmønster.&lt;/p&gt;
-
-&lt;h1 id=&#34;uios-arkitekturprinsipper&#34;&gt;UiOs arkitekturprinsipper&lt;/h1&gt;
-
-&lt;p&gt;UiOs prinsipper er listet her til inspirasjon.  Prinsippene gjelder ikke for UiB med mindre de er innarbeidet i &lt;a href=&#34;http://uib.github.io/arch/prinsipp/&#34;&gt;vår egen liste&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.usit.uio.no/prosjekter/uio-integrasjonsarkitektur/forprosjekt/leveranser/ia-prinsipper/index.html&#34;&gt;Prinsipper for integrasjonsarkitektur&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Dette er oppsummeringen av Felles IKT-arkitekturprinsipper for universitets- og høgskolesektoren som baserer seg på Arkitekturprinsipper for offentlig sektor, og National arkitektur. UiB har vedtatt å følge disse prinsippene.
+Tjenesteorientering Funksjonalitet og ytelsesnivå er hovedhensynet ved utvikling av IKT-løsninger. IKT-tjenester som er nødvendige for å understøtte hele eller deler av en eller flere arbeidsprosesser skal identifiseres og realiseres slik at de kan gjenbrukes.
+Interoperabilitet Virksomheter i UH-sektoren og deres IT-løsninger samhandler på et hensiktsmessig nivå for å støtte høyere utdanning, forskning og formidling.</description>
     </item>
     
     <item>
@@ -203,48 +56,10 @@ eierskap eller infrastruktur.&lt;/p&gt;
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/aktivitet/</guid>
-      <description>
-
-&lt;h2 id=&#34;2016-04-22-workshop&#34;&gt;2016-04-22 Workshop&lt;/h2&gt;
-
-&lt;p&gt;Tilstede: Gisle, Kristian, Ernst, Cato&lt;/p&gt;
-
-&lt;p&gt;Diskuterte 2 av prinsippene i detailj; &amp;ldquo;åpne data&amp;rdquo; og &amp;ldquo;api til alt&amp;rdquo;.  Dette
-kommer til å ta tid.  Vi justerer framgangsmåte til neste sesjon.  Prøver å
-fordele prinsippene til små arbeidsgrupper på 2–3 personer og får disse til å
-komme konkrete forslag som kan behandles.&lt;/p&gt;
-
-&lt;h2 id=&#34;2016-04-04-arbeidsmøte&#34;&gt;2016-04-04 Arbeidsmøte&lt;/h2&gt;
-
-&lt;p&gt;Tilstede: Gisle, Tor, Cato, Ernst, Chandini&lt;/p&gt;
-
-&lt;p&gt;Vi diskuterte arbeidsform og hva vi skal produsere.  Diskusjon om hvordan vi kan
-være konkret nok og hva vi vil med gruppen.&lt;/p&gt;
-
-&lt;p&gt;Ble enige om at vi starter opp med et dokumentet &amp;ldquo;UiBs arkitekturprinsipper&amp;rdquo; som
-vi starter med å fylle.  Starter opp med noen konkrete prinsipper.&lt;/p&gt;
-
-&lt;p&gt;Det var motstand mot at vi skulle vedlikeholde &amp;ldquo;Kundens tekniske platform&amp;rdquo; inntil
-videre.&lt;/p&gt;
-
-&lt;p&gt;Vi oppretter en mailingliste &lt;a href=&#34;mailto:arkitektur@it.uib.no&#34;&gt;arkitektur@it.uib.no&lt;/a&gt;.  Vi begynner med å jobbe
-med dokumentet på listen.&lt;/p&gt;
-
-&lt;p&gt;Møtefrekvens fremover ca 1 gang i mnd.&lt;/p&gt;
-
-&lt;h2 id=&#34;2016-02-23-konstituering&#34;&gt;2016-02-23 Konstituering&lt;/h2&gt;
-
-&lt;p&gt;Møte hvor &amp;ldquo;Arkitekturrådet&amp;rdquo; ble konstituert.
-Gisle leder rådet.  Deltakerene blir Cato, Chandini, Ernst, Kristian H, Tor og Tore.
-Ledergruppen ved ITA tar senere stilling til om seksjonslederene skal delta.&lt;/p&gt;
-
-&lt;h2 id=&#34;2015-10-20-heldagsmøte-scandic-hotell-byparken&#34;&gt;2015-10-20 Heldagsmøte (Scandic Hotell Byparken)&lt;/h2&gt;
-
-&lt;p&gt;Tittel: Hvordan løse utfordringer rundt konto, roller, integrasjoner, etc.&lt;/p&gt;
-
-&lt;p&gt;Første møte hvor arkitekturprinsippene for UH sektoren ble diskutert.
-Heidi Joanne Bergh-Hoff fra Uninett ble invitert til å snakke om arkitektur.&lt;/p&gt;
-</description>
+      <description>2016-04-22 Workshop Tilstede: Gisle, Kristian, Ernst, Cato
+Diskuterte 2 av prinsippene i detailj; &amp;ldquo;åpne data&amp;rdquo; og &amp;ldquo;api til alt&amp;rdquo;. Dette kommer til å ta tid. Vi justerer framgangsmåte til neste sesjon. Prøver å fordele prinsippene til små arbeidsgrupper på 2–3 personer og får disse til å komme konkrete forslag som kan behandles.
+2016-04-04 Arbeidsmøte Tilstede: Gisle, Tor, Cato, Ernst, Chandini
+Vi diskuterte arbeidsform og hva vi skal produsere. Diskusjon om hvordan vi kan være konkret nok og hva vi vil med gruppen.</description>
     </item>
     
     <item>
@@ -253,19 +68,8 @@ Heidi Joanne Bergh-Hoff fra Uninett ble invitert til å snakke om arkitektur.&lt
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/</guid>
-      <description>&lt;p&gt;Retningslinjer for definering av prinsipper er å finne i &lt;a href=&#34;http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap23.html&#34;&gt;TOGAF kap 23 Architecture Principles&lt;/a&gt;.  Prinsippene har formen:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;kort navn&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;statement&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;begrunnelse&lt;/li&gt;
-&lt;li&gt;konsekvenser&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;UiB har vedtatt å følge &lt;a href=&#34;http://uib.github.io/arch/prinsipper-sektor/&#34;&gt;sektorens og DIFIs prinsipper&lt;/a&gt;.  Disse
-prinsippene gjelder derfor i tillegg til de prinsippene som er merket som
-&lt;em&gt;vedtatt&lt;/em&gt; under.&lt;/p&gt;
-</description>
+      <description>Retningslinjer for definering av prinsipper er å finne i TOGAF kap 23 Architecture Principles. Prinsippene har formen:
+ kort navn &amp;ldquo;statement&amp;rdquo; begrunnelse konsekvenser  UiB har vedtatt å følge sektorens og DIFIs prinsipper. Disse prinsippene gjelder derfor i tillegg til de prinsippene som er merket som vedtatt under.</description>
     </item>
     
     <item>
@@ -274,10 +78,7 @@ prinsippene gjelder derfor i tillegg til de prinsippene som er merket som
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/api/</guid>
-      <description>&lt;p&gt;All forretningslogikk og all «ikke GUI-relatert» funksjonalitet skal være
-tilgjengelig via veldefinerte APIer. (Lyst til å skrive åpne, men tenker at det
-kan være i overkant å kreve)&lt;/p&gt;
-</description>
+      <description>All forretningslogikk og all «ikke GUI-relatert» funksjonalitet skal være tilgjengelig via veldefinerte APIer. (Lyst til å skrive åpne, men tenker at det kan være i overkant å kreve)</description>
     </item>
     
     <item>
@@ -286,9 +87,7 @@ kan være i overkant å kreve)&lt;/p&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/api-engelsk/</guid>
-      <description>&lt;p&gt;Skjema for data og APIer defineres på engesk.
-Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Skjema for data og APIer defineres på engesk. Egendefinerte skjema og APIer følger vår navnestandard.</description>
     </item>
     
     <item>
@@ -297,9 +96,7 @@ Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&l
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/apidoc/</guid>
-      <description>&lt;p&gt;Sammenkoblinger og dataflyt mellom systemene dokumenteres som APIer i
-&lt;a href=&#34;http://apidoc.app.uib.no&#34;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Sammenkoblinger og dataflyt mellom systemene dokumenteres som APIer i apidoc.</description>
     </item>
     
     <item>
@@ -308,8 +105,7 @@ Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&l
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/etter-ansaffelse/</guid>
-      <description>&lt;p&gt;Det skal ta hensyn til både drift og oppgraderinger etter anskaffelse (eller utvikling).&lt;/p&gt;
-</description>
+      <description>Det skal ta hensyn til både drift og oppgraderinger etter anskaffelse (eller utvikling).</description>
     </item>
     
     <item>
@@ -318,13 +114,9 @@ Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&l
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/feide/</guid>
-      <description>&lt;p&gt;Webapplikasjoner og mobilapplikasjoner med innlogging bruker &lt;a href=&#34;http://feide.no&#34;&gt;FEIDE&lt;/a&gt;.
-Innlogging via &lt;a href=&#34;http://dataporten.no&#34;&gt;Dataporten&lt;/a&gt; kan være en enklere måte å få tilgang til FEIDE.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Konsekvens:&lt;/strong&gt; Applikasjoner må ta hensyn til at brukere uten UiB-konto kan logge seg på.  Forbedrede skalerbarhet.&lt;/p&gt;
-
-&lt;p&gt;Innlogging via LDAP skal avvikles&lt;/p&gt;
-</description>
+      <description>Webapplikasjoner og mobilapplikasjoner med innlogging bruker FEIDE. Innlogging via Dataporten kan være en enklere måte å få tilgang til FEIDE.
+Konsekvens: Applikasjoner må ta hensyn til at brukere uten UiB-konto kan logge seg på. Forbedrede skalerbarhet.
+Innlogging via LDAP skal avvikles</description>
     </item>
     
     <item>
@@ -333,8 +125,7 @@ Innlogging via &lt;a href=&#34;http://dataporten.no&#34;&gt;Dataporten&lt;/a&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/uhad/</guid>
-      <description>&lt;p&gt;Windowsappliasjoner bruker UHAD til autorisasjon.&lt;/p&gt;
-</description>
+      <description>Windowsappliasjoner bruker UHAD til autorisasjon.</description>
     </item>
     
     <item>
@@ -343,15 +134,8 @@ Innlogging via &lt;a href=&#34;http://dataporten.no&#34;&gt;Dataporten&lt;/a&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/krypterte-forbindelser/</guid>
-      <description>
-
-&lt;p&gt;Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene.
-Obligatorisk når forbindelsen inneholder sesjonsinfo.&lt;/p&gt;
-
-&lt;h3 id=&#34;konsekvens&#34;&gt;Konsekvens&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eff.org/https-everywhere&#34;&gt;https everywhere&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene. Obligatorisk når forbindelsen inneholder sesjonsinfo.
+Konsekvens https everywhere.</description>
     </item>
     
     <item>
@@ -360,15 +144,7 @@ Obligatorisk når forbindelsen inneholder sesjonsinfo.&lt;/p&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/lose-sammenkoblinger/</guid>
-      <description>
-
-&lt;h3 id=&#34;løse-sammenkoblinger&#34;&gt;Løse sammenkoblinger&lt;/h3&gt;
-
-&lt;p&gt;Integrasjonsgrensesnitt skal utformes slik at tjenester og bakenforliggende
-systemer kan flyttes og byttes ut uten at konsumenter av tjenesten må gjøre
-endringer i sin ende, og omvendt.  Systemene skal gjøre så få antakelser om
-tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&gt;
-</description>
+      <description>Løse sammenkoblinger Integrasjonsgrensesnitt skal utformes slik at tjenester og bakenforliggende systemer kan flyttes og byttes ut uten at konsumenter av tjenesten må gjøre endringer i sin ende, og omvendt. Systemene skal gjøre så få antakelser om tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.</description>
     </item>
     
     <item>
@@ -377,8 +153,7 @@ tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&g
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/sikkerhet/</guid>
-      <description>&lt;p&gt;Sikkerhet er integrert i alle  trinn  (prosjektering, krav spek, anskaffelse og test, idriftsetting)&lt;/p&gt;
-</description>
+      <description>Sikkerhet er integrert i alle trinn (prosjektering, krav spek, anskaffelse og test, idriftsetting)</description>
     </item>
     
     <item>
@@ -387,8 +162,43 @@ tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&g
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/standardisering/</guid>
-      <description>&lt;p&gt;IT løsninger er basert på velkjent standarder og programvarer/applikasjoner som er integrasjonsvennlig.&lt;/p&gt;
-</description>
+      <description>IT løsninger er basert på velkjent standarder og programvarer/applikasjoner som er integrasjonsvennlig.</description>
+    </item>
+    
+    <item>
+      <title>Teknisk gjeld</title>
+      <link>http://uib.github.io/arch/prinsipp/teknisk-gjeld/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://uib.github.io/arch/prinsipp/teknisk-gjeld/</guid>
+      <description>Systemene som innføres skal ikke akkumulere teknisk gjeld. :-)</description>
+    </item>
+    
+    <item>
+      <title>Tjenestekatalogen</title>
+      <link>http://uib.github.io/arch/prinsipp/tjenestekatalog/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://uib.github.io/arch/prinsipp/tjenestekatalog/</guid>
+      <description>IT-tjenester som gjøres tilgjengelig for ansatte eller studenter registreres i Tjenestekatalogen.</description>
+    </item>
+    
+    <item>
+      <title>Åpen kildekode</title>
+      <link>http://uib.github.io/arch/prinsipp/apen-kildekode/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://uib.github.io/arch/prinsipp/apen-kildekode/</guid>
+      <description>Open source produkter foretrekkes.</description>
+    </item>
+    
+    <item>
+      <title>Åpne data</title>
+      <link>http://uib.github.io/arch/prinsipp/apne-data/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://uib.github.io/arch/prinsipp/apne-data/</guid>
+      <description>Tilgjengeliggjøre offentlige data som Åpne data der det er av samfunnsmessig verdi, som kan viderebrukes og som ikke er taushetsbelagt. UiB skal fortrinsvis selv bruke disse Åpne dataene.</description>
     </item>
     
   </channel>

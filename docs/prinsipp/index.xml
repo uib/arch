@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prinsipps on IT-arkitektur ved UiB</title>
-    <link>http://uib.github.io/arch/prinsipp/index.xml</link>
+    <link>http://uib.github.io/arch/prinsipp/</link>
     <description>Recent content in Prinsipps on IT-arkitektur ved UiB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
     <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://uib.github.io/arch/prinsipp/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://uib.github.io/arch/prinsipp/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Arkitekturprinsipper for UiB</title>
@@ -15,19 +17,8 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/</guid>
-      <description>&lt;p&gt;Retningslinjer for definering av prinsipper er å finne i &lt;a href=&#34;http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap23.html&#34;&gt;TOGAF kap 23 Architecture Principles&lt;/a&gt;.  Prinsippene har formen:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;kort navn&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;statement&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;begrunnelse&lt;/li&gt;
-&lt;li&gt;konsekvenser&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;UiB har vedtatt å følge &lt;a href=&#34;http://uib.github.io/arch/prinsipper-sektor/&#34;&gt;sektorens og DIFIs prinsipper&lt;/a&gt;.  Disse
-prinsippene gjelder derfor i tillegg til de prinsippene som er merket som
-&lt;em&gt;vedtatt&lt;/em&gt; under.&lt;/p&gt;
-</description>
+      <description>Retningslinjer for definering av prinsipper er å finne i TOGAF kap 23 Architecture Principles. Prinsippene har formen:
+ kort navn &amp;ldquo;statement&amp;rdquo; begrunnelse konsekvenser  UiB har vedtatt å følge sektorens og DIFIs prinsipper. Disse prinsippene gjelder derfor i tillegg til de prinsippene som er merket som vedtatt under.</description>
     </item>
     
     <item>
@@ -36,10 +27,7 @@ prinsippene gjelder derfor i tillegg til de prinsippene som er merket som
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/api/</guid>
-      <description>&lt;p&gt;All forretningslogikk og all «ikke GUI-relatert» funksjonalitet skal være
-tilgjengelig via veldefinerte APIer. (Lyst til å skrive åpne, men tenker at det
-kan være i overkant å kreve)&lt;/p&gt;
-</description>
+      <description>All forretningslogikk og all «ikke GUI-relatert» funksjonalitet skal være tilgjengelig via veldefinerte APIer. (Lyst til å skrive åpne, men tenker at det kan være i overkant å kreve)</description>
     </item>
     
     <item>
@@ -48,9 +36,7 @@ kan være i overkant å kreve)&lt;/p&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/api-engelsk/</guid>
-      <description>&lt;p&gt;Skjema for data og APIer defineres på engesk.
-Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Skjema for data og APIer defineres på engesk. Egendefinerte skjema og APIer følger vår navnestandard.</description>
     </item>
     
     <item>
@@ -59,9 +45,7 @@ Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&l
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/apidoc/</guid>
-      <description>&lt;p&gt;Sammenkoblinger og dataflyt mellom systemene dokumenteres som APIer i
-&lt;a href=&#34;http://apidoc.app.uib.no&#34;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Sammenkoblinger og dataflyt mellom systemene dokumenteres som APIer i apidoc.</description>
     </item>
     
     <item>
@@ -70,8 +54,7 @@ Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&l
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/etter-ansaffelse/</guid>
-      <description>&lt;p&gt;Det skal ta hensyn til både drift og oppgraderinger etter anskaffelse (eller utvikling).&lt;/p&gt;
-</description>
+      <description>Det skal ta hensyn til både drift og oppgraderinger etter anskaffelse (eller utvikling).</description>
     </item>
     
     <item>
@@ -80,13 +63,9 @@ Egendefinerte skjema og APIer følger vår &lt;em&gt;navnestandard&lt;/em&gt;.&l
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/feide/</guid>
-      <description>&lt;p&gt;Webapplikasjoner og mobilapplikasjoner med innlogging bruker &lt;a href=&#34;http://feide.no&#34;&gt;FEIDE&lt;/a&gt;.
-Innlogging via &lt;a href=&#34;http://dataporten.no&#34;&gt;Dataporten&lt;/a&gt; kan være en enklere måte å få tilgang til FEIDE.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Konsekvens:&lt;/strong&gt; Applikasjoner må ta hensyn til at brukere uten UiB-konto kan logge seg på.  Forbedrede skalerbarhet.&lt;/p&gt;
-
-&lt;p&gt;Innlogging via LDAP skal avvikles&lt;/p&gt;
-</description>
+      <description>Webapplikasjoner og mobilapplikasjoner med innlogging bruker FEIDE. Innlogging via Dataporten kan være en enklere måte å få tilgang til FEIDE.
+Konsekvens: Applikasjoner må ta hensyn til at brukere uten UiB-konto kan logge seg på. Forbedrede skalerbarhet.
+Innlogging via LDAP skal avvikles</description>
     </item>
     
     <item>
@@ -95,8 +74,7 @@ Innlogging via &lt;a href=&#34;http://dataporten.no&#34;&gt;Dataporten&lt;/a&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/uhad/</guid>
-      <description>&lt;p&gt;Windowsappliasjoner bruker UHAD til autorisasjon.&lt;/p&gt;
-</description>
+      <description>Windowsappliasjoner bruker UHAD til autorisasjon.</description>
     </item>
     
     <item>
@@ -105,15 +83,8 @@ Innlogging via &lt;a href=&#34;http://dataporten.no&#34;&gt;Dataporten&lt;/a&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/krypterte-forbindelser/</guid>
-      <description>
-
-&lt;p&gt;Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene.
-Obligatorisk når forbindelsen inneholder sesjonsinfo.&lt;/p&gt;
-
-&lt;h3 id=&#34;konsekvens&#34;&gt;Konsekvens&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eff.org/https-everywhere&#34;&gt;https everywhere&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene. Obligatorisk når forbindelsen inneholder sesjonsinfo.
+Konsekvens https everywhere.</description>
     </item>
     
     <item>
@@ -122,15 +93,7 @@ Obligatorisk når forbindelsen inneholder sesjonsinfo.&lt;/p&gt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/lose-sammenkoblinger/</guid>
-      <description>
-
-&lt;h3 id=&#34;løse-sammenkoblinger&#34;&gt;Løse sammenkoblinger&lt;/h3&gt;
-
-&lt;p&gt;Integrasjonsgrensesnitt skal utformes slik at tjenester og bakenforliggende
-systemer kan flyttes og byttes ut uten at konsumenter av tjenesten må gjøre
-endringer i sin ende, og omvendt.  Systemene skal gjøre så få antakelser om
-tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&gt;
-</description>
+      <description>Løse sammenkoblinger Integrasjonsgrensesnitt skal utformes slik at tjenester og bakenforliggende systemer kan flyttes og byttes ut uten at konsumenter av tjenesten må gjøre endringer i sin ende, og omvendt. Systemene skal gjøre så få antakelser om tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.</description>
     </item>
     
     <item>
@@ -139,8 +102,7 @@ tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&g
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/sikkerhet/</guid>
-      <description>&lt;p&gt;Sikkerhet er integrert i alle  trinn  (prosjektering, krav spek, anskaffelse og test, idriftsetting)&lt;/p&gt;
-</description>
+      <description>Sikkerhet er integrert i alle trinn (prosjektering, krav spek, anskaffelse og test, idriftsetting)</description>
     </item>
     
     <item>
@@ -149,8 +111,7 @@ tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&g
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/standardisering/</guid>
-      <description>&lt;p&gt;IT løsninger er basert på velkjent standarder og programvarer/applikasjoner som er integrasjonsvennlig.&lt;/p&gt;
-</description>
+      <description>IT løsninger er basert på velkjent standarder og programvarer/applikasjoner som er integrasjonsvennlig.</description>
     </item>
     
     <item>
@@ -159,8 +120,7 @@ tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&g
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/teknisk-gjeld/</guid>
-      <description>&lt;p&gt;Systemene som innføres skal ikke akkumulere teknisk gjeld. :-)&lt;/p&gt;
-</description>
+      <description>Systemene som innføres skal ikke akkumulere teknisk gjeld. :-)</description>
     </item>
     
     <item>
@@ -169,9 +129,7 @@ tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.&lt;/p&g
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/tjenestekatalog/</guid>
-      <description>&lt;p&gt;IT-tjenester som gjøres tilgjengelig for ansatte eller studenter
-registreres i &lt;a href=&#34;http://tk.app.uib.no&#34;&gt;Tjenestekatalogen&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>IT-tjenester som gjøres tilgjengelig for ansatte eller studenter registreres i Tjenestekatalogen.</description>
     </item>
     
     <item>
@@ -180,8 +138,7 @@ registreres i &lt;a href=&#34;http://tk.app.uib.no&#34;&gt;Tjenestekatalogen&lt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/apen-kildekode/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Open source&lt;/em&gt; produkter foretrekkes.&lt;/p&gt;
-</description>
+      <description>Open source produkter foretrekkes.</description>
     </item>
     
     <item>
@@ -190,10 +147,7 @@ registreres i &lt;a href=&#34;http://tk.app.uib.no&#34;&gt;Tjenestekatalogen&lt;
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://uib.github.io/arch/prinsipp/apne-data/</guid>
-      <description>&lt;p&gt;Tilgjengeliggjøre offentlige data som &lt;em&gt;Åpne data&lt;/em&gt; der det er av samfunnsmessig
-verdi, som kan viderebrukes og som ikke er taushetsbelagt.
-UiB skal fortrinsvis selv bruke disse &lt;em&gt;Åpne dataene&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Tilgjengeliggjøre offentlige data som Åpne data der det er av samfunnsmessig verdi, som kan viderebrukes og som ikke er taushetsbelagt. UiB skal fortrinsvis selv bruke disse Åpne dataene.</description>
     </item>
     
   </channel>
