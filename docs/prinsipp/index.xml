@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prinsipps on IT-arkitektur ved UiB</title>
+    <title>Arkitekturprinsipper for UiB on IT-arkitektur ved UiB</title>
     <link>http://uib.github.io/arch/prinsipp/</link>
-    <description>Recent content in Prinsipps on IT-arkitektur ved UiB</description>
+    <description>Recent content in Arkitekturprinsipper for UiB on IT-arkitektur ved UiB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
     <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://uib.github.io/arch/prinsipp/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Arkitekturprinsipper for UiB</title>
-      <link>http://uib.github.io/arch/prinsipp/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://uib.github.io/arch/prinsipp/</guid>
-      <description>Retningslinjer for definering av prinsipper er å finne i TOGAF kap 23 Architecture Principles. Prinsippene har formen:
- kort navn &amp;ldquo;statement&amp;rdquo; begrunnelse konsekvenser  UiB har vedtatt å følge sektorens og DIFIs prinsipper. Disse prinsippene gjelder derfor i tillegg til de prinsippene som er merket som vedtatt under.</description>
-    </item>
     
     <item>
       <title>API til alt</title>

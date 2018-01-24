@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IT-arkitektur ved UiB</title>
+    <title>Oversikt on IT-arkitektur ved UiB</title>
     <link>http://uib.github.io/arch/</link>
-    <description>Recent content on IT-arkitektur ved UiB</description>
+    <description>Recent content in Oversikt on IT-arkitektur ved UiB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
     <lastBuildDate>Fri, 14 Oct 2016 00:00:00 +0000</lastBuildDate>
@@ -20,23 +20,12 @@
       <description>&lt;p&gt;Arkitekturrådet ved &lt;a href=&#34;http://www.uib.no/it&#34;&gt;ITA&lt;/a&gt; er et organ som:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Utarbeider anbefalinger og &lt;a href=&#34;http://uib.github.io/arch/prinsipp/&#34;&gt;prinsipper&lt;/a&gt; for utvikling, integrasjon, teknologivalg og driftsmetodikk&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Utarbeider anbefalinger og &lt;a href=&#34;../prinsipp/&#34;&gt;prinsipper&lt;/a&gt; for utvikling, integrasjon, teknologivalg og driftsmetodikk&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Rådspørres i innkjøps-/utviklingsprosjekter som ønsker å fravike fra prinsippene&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oversikt</title>
-      <link>http://uib.github.io/arch/</link>
-      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://uib.github.io/arch/</guid>
-      <description>Arkitekturrådet ved ITA Rådet ble konstituert i møte 2016-02-23 med ledergruppen ved ITA samt rådets medlemer tilstede. Rådet har fått mandat.
-Rådet skal gi praktiske råd som kan brukes til å ta teknologiske valg i prosjekter, ved innkjøp og i det daglige arbeidet.
- Hvilken teknologi skal vi bruke til å løse dette problemet? Men også egenskapene til tekonologi som er egnet til å løse problemer av denne typen.</description>
     </item>
     
     <item>
@@ -60,16 +49,6 @@ Interoperabilitet Virksomheter i UH-sektoren og deres IT-løsninger samhandler p
 Diskuterte 2 av prinsippene i detailj; &amp;ldquo;åpne data&amp;rdquo; og &amp;ldquo;api til alt&amp;rdquo;. Dette kommer til å ta tid. Vi justerer framgangsmåte til neste sesjon. Prøver å fordele prinsippene til små arbeidsgrupper på 2–3 personer og får disse til å komme konkrete forslag som kan behandles.
 2016-04-04 Arbeidsmøte Tilstede: Gisle, Tor, Cato, Ernst, Chandini
 Vi diskuterte arbeidsform og hva vi skal produsere. Diskusjon om hvordan vi kan være konkret nok og hva vi vil med gruppen.</description>
-    </item>
-    
-    <item>
-      <title>Arkitekturprinsipper for UiB</title>
-      <link>http://uib.github.io/arch/prinsipp/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://uib.github.io/arch/prinsipp/</guid>
-      <description>Retningslinjer for definering av prinsipper er å finne i TOGAF kap 23 Architecture Principles. Prinsippene har formen:
- kort navn &amp;ldquo;statement&amp;rdquo; begrunnelse konsekvenser  UiB har vedtatt å følge sektorens og DIFIs prinsipper. Disse prinsippene gjelder derfor i tillegg til de prinsippene som er merket som vedtatt under.</description>
     </item>
     
     <item>
