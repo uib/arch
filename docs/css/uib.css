@@ -22,6 +22,10 @@ body {
     margin: 0;
     padding: 0;
     background: white;
+    display: grid;
+    grid-template-rows: min-content auto min-content;
+    min-height: 100vh;
+    grid-gap: 1em;
 }
 
 header, footer {
@@ -30,7 +34,6 @@ header, footer {
 }
 
 header {
-    min-height: 100px;
     padding: 0 2rem;
 }
 

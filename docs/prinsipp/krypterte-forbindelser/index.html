@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <meta name="generator" content="Hugo 0.34" />
+    <meta name="generator" content="Hugo 0.36" />
     <title>Krypterte forbindelser</title>
     <link rel="stylesheet" type="text/css" href="http://uib.github.io/arch/css/uib.css">
 </head>
@@ -31,21 +31,34 @@
 <article class="principle">
 <h1><span class="breadcrumb"><a href="../">Prinsipp</a></span> → Krypterte forbindelser</h1>
 
-<pre>Status: proposed</pre>
+<pre>Status: accepted</pre>
 
 
 
-<p>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene.
-Obligatorisk når forbindelsen inneholder sesjonsinfo.</p>
+<p>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene.</p>
+
+<h3 id="begrunnelse">Begrunnelse</h3>
+
+<p>Vi ønsker å sikre at informasjon som sendes ut fra UiBs servere når brukerene
+uten å være modifisert på veien. Brukerene skal kunne stole på at det er trygt
+å besøke våre sider.</p>
+
+<p>Fra september 2017 har dette vært en <a href="https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/grunnleggende-datakommunikasjon-0#Weboverføring">anbefaling fra Difi</a>.</p>
+
+<p>Se utdyping <a href="https://www.eff.org/https-everywhere">https everywhere</a>.</p>
 
 <h3 id="konsekvens">Konsekvens</h3>
 
-<p><a href="https://www.eff.org/https-everywhere">https everywhere</a>.</p>
+<p>For webtjenester betyr det at det må anskaffes sertifikat til alle tjenester
+og at henvendelser på <code>http</code> alltid skal omdirigeres til <code>https</code>.</p>
+
+<p>For API-kall kan fremdeles <code>http</code> brukes for ikke-sensitiv informasjon som ikke
+forlater vårt nett.</p>
 
 </article>
 </div>
 <footer>
-    &copy; 2016 Universitetet i Bergen
+    &copy; 2018 Universitetet i Bergen
 </footer>
 </body>
 </html>

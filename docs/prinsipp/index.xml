@@ -12,6 +12,19 @@
     
     
     <item>
+      <title>Krypterte forbindelser</title>
+      <link>http://uib.github.io/arch/prinsipp/krypterte-forbindelser/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://uib.github.io/arch/prinsipp/krypterte-forbindelser/</guid>
+      <description>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene.
+Begrunnelse Vi ønsker å sikre at informasjon som sendes ut fra UiBs servere når brukerene uten å være modifisert på veien. Brukerene skal kunne stole på at det er trygt å besøke våre sider.
+Fra september 2017 har dette vært en anbefaling fra Difi.
+Se utdyping https everywhere.
+Konsekvens For webtjenester betyr det at det må anskaffes sertifikat til alle tjenester og at henvendelser på http alltid skal omdirigeres til https.</description>
+    </item>
+    
+    <item>
       <title>API til alt</title>
       <link>http://uib.github.io/arch/prinsipp/api/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -65,16 +78,6 @@ Innlogging via LDAP skal avvikles</description>
       
       <guid>http://uib.github.io/arch/prinsipp/uhad/</guid>
       <description>Windowsappliasjoner bruker UHAD til autorisasjon.</description>
-    </item>
-    
-    <item>
-      <title>Krypterte forbindelser</title>
-      <link>http://uib.github.io/arch/prinsipp/krypterte-forbindelser/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://uib.github.io/arch/prinsipp/krypterte-forbindelser/</guid>
-      <description>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene. Obligatorisk når forbindelsen inneholder sesjonsinfo.
-Konsekvens https everywhere.</description>
     </item>
     
     <item>

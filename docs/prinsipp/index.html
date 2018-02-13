@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <meta name="generator" content="Hugo 0.34" />
+    <meta name="generator" content="Hugo 0.36" />
     <title>Arkitekturprinsipper for UiB</title>
     <link rel="stylesheet" type="text/css" href="http://uib.github.io/arch/css/uib.css">
 </head>
@@ -48,6 +48,13 @@ prinsippene gjelder derfor i tillegg til de prinsippene som er merket som
 <div class="index">
 <dl>
 
+<dt><a href="http://uib.github.io/arch/prinsipp/krypterte-forbindelser/">Krypterte forbindelser</a> [accepted]</dt>
+  <dd>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene.
+Begrunnelse Vi ønsker å sikre at informasjon som sendes ut fra UiBs servere når brukerene uten å være modifisert på veien. Brukerene skal kunne stole på at det er trygt å besøke våre sider.
+Fra september 2017 har dette vært en anbefaling fra Difi.
+Se utdyping https everywhere.
+Konsekvens For webtjenester betyr det at det må anskaffes sertifikat til alle tjenester og at henvendelser på http alltid skal omdirigeres til https.</dd>
+
 <dt><a href="http://uib.github.io/arch/prinsipp/api/">API til alt</a> [proposed]</dt>
   <dd>All forretningslogikk og all «ikke GUI-relatert» funksjonalitet skal være tilgjengelig via veldefinerte APIer. (Lyst til å skrive åpne, men tenker at det kan være i overkant å kreve)</dd>
 
@@ -67,10 +74,6 @@ Innlogging via LDAP skal avvikles</dd>
 
 <dt><a href="http://uib.github.io/arch/prinsipp/uhad/">Innlogging via UHAD</a> [proposed]</dt>
   <dd>Windowsappliasjoner bruker UHAD til autorisasjon.</dd>
-
-<dt><a href="http://uib.github.io/arch/prinsipp/krypterte-forbindelser/">Krypterte forbindelser</a> [proposed]</dt>
-  <dd>Krypterte forbindelser brukes til all kommunikasjon ut mot brukerene. Obligatorisk når forbindelsen inneholder sesjonsinfo.
-Konsekvens https everywhere.</dd>
 
 <dt><a href="http://uib.github.io/arch/prinsipp/lose-sammenkoblinger/">Løse sammnenkoblinger</a> [proposed]</dt>
   <dd>Løse sammenkoblinger Integrasjonsgrensesnitt skal utformes slik at tjenester og bakenforliggende systemer kan flyttes og byttes ut uten at konsumenter av tjenesten må gjøre endringer i sin ende, og omvendt. Systemene skal gjøre så få antakelser om tilnyttede systemer som mulig og forholde seg til veldokumenterte APIer.</dd>
@@ -99,7 +102,7 @@ Konsekvens https everywhere.</dd>
 </div>
 
 <footer>
-    &copy; 2016 Universitetet i Bergen
+    &copy; 2018 Universitetet i Bergen
 </footer>
 </body>
 </html>
